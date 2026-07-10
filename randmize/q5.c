@@ -24,4 +24,6 @@ int main() {
         total = total + gen(100);
     }
     printf("average: %d", total / 100);
+
+    return 0;
 }
